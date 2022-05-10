@@ -6,3 +6,7 @@
 ## Group 1
 
 * [This is just a test](group-1/this-is-just-a-test.md)
+
+## Test from github
+
+* [Test test](test-from-github/test-test.md)
