@@ -2,6 +2,6 @@
 
 This is the first test page
 
-test raz test
+We are working hard on the gitbook setup. Stay tuned! ⚡
 
 ![](.gitbook/assets/Elrond-Devs-Guild.png)
