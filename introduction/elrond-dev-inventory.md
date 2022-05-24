@@ -2,7 +2,7 @@
 description: Introduction to tools, potions, spells... all what real Elrond Dev needs
 ---
 
-# Elrond Dev Inventory
+# Elrond's Dev Inventory
 
 Let's put together all the tools required to become the real Elrond Dev warrior. The purpose of this is to try to make the lives of new developers simpler and show them the way.
 
@@ -51,7 +51,7 @@ We will focus on more details and what each library can do in the following arti
 
 You can learn more about what is possible with erdjs here: [erdjs cookbook](https://docs.elrond.com/sdk-and-tools/erdjs/erdjs-cookbook/).
 
-Finally, ready-to-use frontend tools like templates for the React/Nextjs ecosystem are also available. Each of them uses the erdjs SDK as a fundamental tool. The official one is [dapp-core](https://github.com/ElrondNetwork/dapp-core), designed to be used with standard React apps. It is also probably the most developed one, with many components, hooks, and helpers. For the NextJS framework, there is a community base template included here in the Guild: [nextjs-dapp-template](https://github.com/ElrondDevGuild/nextjs-dapp-template), where you will also find links to other community-based solutions.
+Finally, ready-to-use frontend tools like templates for the React/Nextjs ecosystem are also available. Each of them uses the erdjs SDK as a fundamental tool. The official one is [dapp-core](https://github.com/ElrondNetwork/dapp-core), designed to be used with standard React apps. It is also probably the most developed one, with many components, hooks, and helpers. For the NextJS framework, there is a community based template included here in the Guild: [nextjs-dapp-template](https://github.com/ElrondDevGuild/nextjs-dapp-template), where you will also find links to other community-based solutions.
 
 ### Ok, so what other tools and services will be helpful?
 
@@ -82,7 +82,7 @@ What is worth linking here is the [Elrond Converters web app](http://207.244.241
 
 ### Where else a young Padawan could search for help?
 
-Besides our welcoming Guild, there are also more suitable places for that. You could check:&#x20;
+Besides our welcoming Guild, there are also other places for that. You could check:&#x20;
 
 * [The Telegram Elrond dev group](https://t.me/ElrondDevelopers)&#x20;
 * [StackOverflow questions tagged 'Elrond'](https://stackoverflow.com/questions/tagged/elrond)
