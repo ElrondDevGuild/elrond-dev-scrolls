@@ -1,6 +1,4 @@
-# Introduction
-
-## Welcome!
+# Welcome!
 
 ### About the Elrond's Dev Guild
 
