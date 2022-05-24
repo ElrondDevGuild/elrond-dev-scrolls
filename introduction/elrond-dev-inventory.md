@@ -1,5 +1,5 @@
 ---
-description: Introduction to tools, potions, spells... all what real Elrond Dev needs
+description: Introduction to tools, potions, spells... all that real Elrond Dev needs
 ---
 
 # Elrond's Dev Inventory
