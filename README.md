@@ -1,4 +1,4 @@
-# Welcome!
+# Introduction
 
 ### About the Elrond's Dev Guild
 
@@ -18,7 +18,7 @@ The Elrond Scrolls is what you are reading now. Knowledge is power! So the plan 
 
 We will try to prepare a couple of sections with more introduction-like articles and more detailed ones. It could be a standard article, blog post, or tutorial.
 
-Because the best tutorials are on living organisms, we will try to also provide the repositories with proper links to the articles.
+Because the best tutorials are on living organisms, we will try to also provide the repositories and proper links in the articles.
 
 If you have an idea for the article, please let us know. The article and tutorials should touch on the development side of the Elrond blockchain, but of course, there are many common areas, so we will all decide what should land here.
 
