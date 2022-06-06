@@ -123,6 +123,12 @@ export const publicEndpointSetup = async () => {
 };
 ```
 
-
-
 _Code snippets taken & adapted from_ [_buildo-begins_](https://github.com/ElrondDevGuild/buildo-begins/blob/main/src/utils.ts)_._
+
+## Generate PEM file wallet
+
+One simple way to generate a PEM file wallet is using [erdpy](https://docs.elrond.com/sdk-and-tools/erdpy/installing-erdpy/). In a terminal, run:
+
+```
+erdpy wallet new --pem --output-path wallet
+```
