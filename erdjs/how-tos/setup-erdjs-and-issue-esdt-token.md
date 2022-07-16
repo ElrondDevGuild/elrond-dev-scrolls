@@ -94,7 +94,7 @@ export const getFileContents = (
   return fileString;
 };
 ```
-You will find the real example in the Buildo Begins library: https://github.com/ElrondDevGuild/buildo-begins.
+You will find the real example in the Buildo Begins library: [https://github.com/ElrondDevGuild/buildo-begins](https://github.com/ElrondDevGuild/buildo-begins).
 
 We can then use the file contents across the app.
 
@@ -111,7 +111,7 @@ export const getProvider = () => {
   });
 };
 ```
-Here simplified, and you will find the real example in the Buildo Begins library: https://github.com/ElrondDevGuild/buildo-begins.
+Here simplified, and you will find the real example in the Buildo Begins library: [https://github.com/ElrondDevGuild/buildo-begins](https://github.com/ElrondDevGuild/buildo-begins).
 
 The provider will be used wherever we need to interact with the Elrond API. It can be the public endpoint as in the example, but it is always advised to use a custom one—yours or from third-party services.
 
@@ -131,7 +131,7 @@ export const prepareUserAccount = async (walletPemKey: string) => {
 };
 ```
 
-You will find the real example in the Buildo Begins library: https://github.com/ElrondDevGuild/buildo-begins.
+You will find the real example in the Buildo Begins library: [https://github.com/ElrondDevGuild/buildo-begins](https://github.com/ElrondDevGuild/buildo-begins).
 
 ## Synchronize the account with the network using the Network Provider
 
@@ -362,7 +362,7 @@ See? The `1` instead of the `D` as previously.
 
 The flow here is very similar for each transaction. The only differences will be in preparing the data payload, arguments, and sometimes slight differences in transaction instances. All is described in the docs, so you would only need to do the same using helper classes from erdjs SDK.
 
-Here we issued the ESDT token. Of course, this wasn't a complete application, but there is one, and it is open source, so you can check the code by yourself and even copy what you need. You will find it here: https://github.com/ElrondDevGuild/buildo-begins, and this particular functionality is here: [issue-esdt.ts](https://github.com/ElrondDevGuild/buildo-begins/blob/main/src/esdt/issue-esdt.ts).
+Here we issued the ESDT token. Of course, this wasn't a complete application, but there is one, and it is open source, so you can check the code by yourself and even copy what you need. You will find it here: [https://github.com/ElrondDevGuild/buildo-begins](https://github.com/ElrondDevGuild/buildo-begins), and this particular functionality is here: [issue-esdt.ts](https://github.com/ElrondDevGuild/buildo-begins/blob/main/src/esdt/issue-esdt.ts).
 
 If you are curious about how it works. You can use the Buildo Begins library by installing it globally: `npm install buildo-begins -g`. Check the readme.md in the repository for more documentation on it.
 
