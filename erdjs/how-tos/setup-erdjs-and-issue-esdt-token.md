@@ -1,8 +1,7 @@
 ---
+title: Issue ESDT - example of setup and interaction using the erdjs SDK
 description: Setup the erdjs workflow and issue an ESDT token in NodeJS enviroment.
 ---
-
-# Issue ESDT - example of setup and interaction using the erdjs SDK
 
 Before we dig in, please be aware that this article is for developers who code in JavaScript/Typescript and know the basics of working with a NodeJS environment.
 
