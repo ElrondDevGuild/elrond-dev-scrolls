@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
   * [Elrond's Dev Inventory](introduction/elrond-dev-inventory.md)
+  * [Linux environment for development](introduction/linux-environment-for-development.md)
 
 ## erdjs
 
