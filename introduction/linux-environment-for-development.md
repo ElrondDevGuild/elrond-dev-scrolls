@@ -68,7 +68,7 @@ By typing `Ctrl + Shift + P`, you will open the prompt where you need to write `
 
 You can build the smart contract by right-clicking it on the list and choosing 'Build smart contract'.
 
-### Install Python (optional, if needed).
+### Install Python (if you don't have it, most Ubuntu distributions have it already).
 
 Mxpy is a Python tool that can serve as a CLI or module in a Python environment. It is a perfect tool for any interactions with the MultiversX blockchain. We will use it to deploy and interact with the smart contract.
 
@@ -112,6 +112,15 @@ You can clone the Piggybank smart contract for testing. I also did that on the v
 Clone it and open the VSCode. In the MultiversX tab, you should now see the smart contract. You can build it by right-clicking on it and choosing 'Build smart contract'.
 
 In the Readme file in the repository, you will find the mxpy commands to interact with the smart contract. You will also see that on the video.
+
+###  Build the smart contract and interact
+
+There are interaction snippets in the example smart contract repository. You can use them to interact with it, deploy and upgrade. Check the video.
+
+### Troubleshooting
+
+- you might be missing the `build-essential` library with the fresh Ubuntu. You can install it by `sudo apt install build-essential`. Without it, your builds will probably fail
+- when you are preparing the workspace for the first time, remember that you will need to restart all your terminals between installing mxpy and Rust tools, be careful because you can have a couple of them so close all of them
 
 ### Summary
 
