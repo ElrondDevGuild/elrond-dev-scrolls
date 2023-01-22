@@ -4,9 +4,9 @@
   * [MultiversX Dev Inventory](introduction/multiversx-dev-inventory.md)
   * [Linux environment for development](introduction/linux-environment-for-development.md)
 
-## erdjs
+## JS SDK
 
-* [How To's](erdjs/how-tos/README.md)
-  * [Use PEM file wallet](erdjs/how-tos/use-pem-file-wallet.md)
-  * [Issue ESDT](erdjs/how-tos/setup-erdjs-and-issue-esdt-token.md)
-  * [Sepcial roles for ESDT](erdjs/how-tos/set-special-roles-for-esdt-token.md)
+* [How To's](js-sdk/how-tos/README.md)
+  * [Use PEM file wallet](js-sdk/how-tos/use-pem-file-wallet.md)
+  * [Issue ESDT](js-sdk/how-tos/setup-js-sdk-and-issue-esdt-token.md)
+  * [Sepcial roles for ESDT](js-sdk/how-tos/set-special-roles-for-esdt-token.md)
