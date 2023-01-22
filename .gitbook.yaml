@@ -1,4 +1,2 @@
-root: ./
-
 redirects:  
-  readme/elrond-dev-inventory: readme/multiversx-dev-inventory.md
+  readme/elrond-dev-inventory: introduction/multiversx-dev-inventory.md
