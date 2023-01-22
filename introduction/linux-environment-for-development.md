@@ -9,7 +9,7 @@ The configuration is relatively straightforward, but usually, there are problems
 
 If you don't want to read all, please check the walkthrough video on MultiversX VSCode IDE extension, which is the most straightforward way of preparing the environment.
 
-{% embed url="https://youtu.be/Uju4B-CCAJw" %}
+{% embed url="https://youtu.be/y0beoihLppA" %}
 
 ### What kind of operating system is the best?
 
