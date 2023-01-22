@@ -1,3 +1,2 @@
 redirects:  
-    scrolls/readme/elrond-dev-inventory: scrolls/readme/multiversx-dev-inventory.md
-    
+    elrond-dev-inventory: multiversx-dev-inventory.md
