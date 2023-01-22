@@ -1,6 +1,5 @@
 redirects:  
   readme/elrond-dev-inventory: introduction/multiversx-dev-inventory.md
-  erdjs/how-tos/setup-erdjs-and-issue-esdt-token: js-sdk/how-tos/setup-erdjs-and-issue-esdt-token.md
+  erdjs/how-tos/setup-erdjs-and-issue-esdt-token: js-sdk/how-tos/setup-js-sdk-and-issue-esdt-token.md
   erdjs/how-tos/set-special-roles-for-esdt-token: js-sdk/how-tos/set-special-roles-for-esdt-token.md
   erdjs/how-tos/use-pem-file-wallet: js-sdk/how-tos/use-pem-file-wallet.md
-  
