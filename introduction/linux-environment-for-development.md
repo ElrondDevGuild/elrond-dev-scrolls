@@ -105,6 +105,10 @@ python3 mxpy-up.py
 
 **Using mxpy standalone without VSCode is possible, but VSCode IDE will simplify things.**
 
+### Entry in .bashrc
+
+If you use bash and after installing mxpy you still can't access it, make sure that you have the `export PATH="${HOME}/multiversx-sdk:${PATH}"` entry in your `.bashrc` file. It should be located in your user's home directory.
+
 ### Clone the simple, smart contract for testing.
 
 You can clone the Piggybank smart contract for testing. I also did that on the video, so check it out. You will find the smart contract here: [multiversx-simple-sc](https://github.com/xdevguild/multiversx-simple-sc).
