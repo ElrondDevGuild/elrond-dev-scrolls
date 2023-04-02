@@ -62,7 +62,7 @@ Visual Studio Code is one of many code editors and is most used nowadays. This i
 
 To download the VSCode for Linux, go to [code.visualstudio.com](https://code.visualstudio.com/) and download the .deb package. Then install it using the Ubuntu software install app, or install it using terminal `sudo dpkg -i DEB_PACKAGE`.
 
-When you have already installed the VSCode, you can use its UI and install two extensions. One is the MultiversX IDE extension, which you will find using the VSCode extensions search. Then you can install the Rust Analyzer. Don't worry if it won't work the first time. It requires Rust tooling as dependencies, and the MultiversX IDE extension will install all missing parts with the first smart contract build.
+When you have already installed the VSCode, you can use its UI and install two extensions. One is the MultiversX IDE extension, which you will find using the VSCode extensions search. Then you can install the Rust Analyzer. Don't worry if it won't work the first time. It requires Rust tooling as dependencies, and the MultiversX IDE extension will install all missing parts with the first smart contract build. Check how to configure VSCode workspace settings for Rust Analyzer [here](https://github.com/multiversx/mx-ide-vscode/releases/tag/v0.18.0).
 
 By typing `Ctrl + Shift + P`, you will open the prompt where you need to write `MultiversX` and choose to set up the workspace. It will install `mxpy` and also all required `Rust` tools.
 
